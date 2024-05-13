@@ -1,0 +1,46 @@
+{
+  "pacientes": [
+    {
+      "nombre": "Maria Rubio",
+      "edad": "19",
+      "tipo_id": "cedula",
+      "grupo_sanguineo": "O+",
+      "direccion": "calle 0",
+      "email": "mariarubio@gmail.com",
+      "fecha_nacimiento": "2015-04-15",
+      "doc_identidad": "10051867",
+      "genero": "Femenino",
+      "celular": "444444",
+      "eps": "Sura",
+      "id": 1
+    },
+    {
+      "nombre": "Tomas Cardona",
+      "edad": "15",
+      "tipo_id": "cedula",
+      "grupo_sanguineo": "B+",
+      "genero": "Masculino",
+      "celular": "333333",
+      "eps": "Sura",
+      "direccion": "calle 0",
+      "email": "tomascardona@gmail.com",
+      "fecha_nacimiento": "2008-09-21",
+      "doc_identidad": "333333",
+      "id": 2
+    },
+    {
+      "nombre": "Alberto Vargas",
+      "edad": "54",
+      "tipo_id": "Cedula",
+      "grupo_sanguineo": "O-",
+      "genero": "Masculino",
+      "celular": "111111",
+      "eps": "nueva eps",
+      "direccion": "calle 0",
+      "email": "albertovargas@gmail.com",
+      "fecha_nacimiento": "1970-10-18",
+      "doc_identidad": "10078399",
+      "id": 3
+    }
+  ]
+}

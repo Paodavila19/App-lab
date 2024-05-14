@@ -21,7 +21,7 @@ const EVENTOS = [
             "email": "andreacardenas@gmail.com",
             "doc_identidad": "30376893",
             "cargo": "Bacterióloga",
-            "foto": "https://randomuser.me/api/portraits/men/78.jpg",
+            "foto": "https://i.pinimg.com/564x/bd/42/8e/bd428e6bb156d90045700dbf3e967c3e.jpg",
             "User": "andreac",
             "password": "12345"
         },
@@ -43,7 +43,7 @@ const EVENTOS = [
             "email": "camilopachon@gmail.com",
             "doc_identidad": "30788290",
             "cargo": "Bacteriólogo",
-            "foto": "https://randomuser.me/api/portraits/women/90.jpg",
+            "foto": "https://i.pinimg.com/564x/bb/7b/7d/bb7b7d34c357e4618b0dcebf2d06d147.jpg",
             "User": "camilop",
             "password": "12345"
         },
@@ -65,7 +65,7 @@ const EVENTOS = [
             "email": "javiergarcia@gmail.com",
             "doc_identidad": "30377846",
             "cargo": "Patólogo",
-            "foto": "https://randomuser.me/api/portraits/men/74.jpg",
+            "foto": "https://i.pinimg.com/564x/74/89/b8/7489b83fe25adc88908336cb6c0f13c2.jpg",
             "User": "francisco",
             "password": "12345"
         },
